@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+scikit-learn
+pandas
+matplotlib
+seaborn
+pandasql
+python-dotenv
+requests
