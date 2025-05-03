@@ -1,4 +1,4 @@
-# Ultra Intelligent Data Science Chatbot
+# Canny-Data Science bot
 Smart CSV handling chatbot powered by Ollama + Streamlit + Langchain.
 
 ## Setup Instructions
